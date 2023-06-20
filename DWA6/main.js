@@ -17,7 +17,7 @@ function renderBooks() {
   const endIndex = page * BOOKS_PER_PAGE;
   const visibleBooks = matches.slice(startIndex, endIndex);
   for (const book of visibleBooks) {
-    const element = createBookElement(book);
+    const element = createBookElement(books);
     fragment.appendChild(element);
   }
   bookItemsContainer.appendChild(fragment);
