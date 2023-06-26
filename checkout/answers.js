@@ -1,8 +1,0 @@
-correctAnswer: "2 spaces",
-correctAnswer: "To explain the code's functionality and usage",
-correctAnswer: "Using try-catch blocks",
-correctAnswer: "Hiding unnecessary details and exposing only essential information",
-correctAnswer: "Object-Oriented Programming",
-correctAnswer: "Inheritance",
-correctAnswer: "Functional Programming",
-correctAnswer: "To model complex systems with discrete states and transitions",
