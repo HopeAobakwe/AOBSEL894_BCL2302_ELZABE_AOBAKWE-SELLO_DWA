@@ -1,5 +1,5 @@
 // book-preview.js
-import { books, authors, genres, BOOKS_PER_PAGE } from './data.js'
+import { books, authors, genres, BOOKS_PER_PAGE } from '../DWA9/data.js'
 
 class BookPreview extends HTMLElement {
     constructor() {
